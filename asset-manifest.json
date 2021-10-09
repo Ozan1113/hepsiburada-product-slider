@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hepsiburada-product-slider/static/css/main.b9dd4c16.chunk.css",
-    "main.js": "/hepsiburada-product-slider/static/js/main.bd502a53.chunk.js",
-    "main.js.map": "/hepsiburada-product-slider/static/js/main.bd502a53.chunk.js.map",
-    "runtime-main.js": "/hepsiburada-product-slider/static/js/runtime-main.97afe17e.js",
-    "runtime-main.js.map": "/hepsiburada-product-slider/static/js/runtime-main.97afe17e.js.map",
-    "static/js/2.08e03531.chunk.js": "/hepsiburada-product-slider/static/js/2.08e03531.chunk.js",
-    "static/js/2.08e03531.chunk.js.map": "/hepsiburada-product-slider/static/js/2.08e03531.chunk.js.map",
-    "static/js/3.d09a30b3.chunk.js": "/hepsiburada-product-slider/static/js/3.d09a30b3.chunk.js",
-    "static/js/3.d09a30b3.chunk.js.map": "/hepsiburada-product-slider/static/js/3.d09a30b3.chunk.js.map",
+    "main.css": "/hepsiburada-product-slider/static/css/main.af09c1ae.chunk.css",
+    "main.js": "/hepsiburada-product-slider/static/js/main.6b8a5cb7.chunk.js",
+    "main.js.map": "/hepsiburada-product-slider/static/js/main.6b8a5cb7.chunk.js.map",
+    "runtime-main.js": "/hepsiburada-product-slider/static/js/runtime-main.ffeeea2a.js",
+    "runtime-main.js.map": "/hepsiburada-product-slider/static/js/runtime-main.ffeeea2a.js.map",
+    "static/js/2.e7dd1d5e.chunk.js": "/hepsiburada-product-slider/static/js/2.e7dd1d5e.chunk.js",
+    "static/js/2.e7dd1d5e.chunk.js.map": "/hepsiburada-product-slider/static/js/2.e7dd1d5e.chunk.js.map",
+    "static/js/3.938cb93d.chunk.js": "/hepsiburada-product-slider/static/js/3.938cb93d.chunk.js",
+    "static/js/3.938cb93d.chunk.js.map": "/hepsiburada-product-slider/static/js/3.938cb93d.chunk.js.map",
     "index.html": "/hepsiburada-product-slider/index.html",
-    "static/css/main.b9dd4c16.chunk.css.map": "/hepsiburada-product-slider/static/css/main.b9dd4c16.chunk.css.map",
-    "static/js/2.08e03531.chunk.js.LICENSE.txt": "/hepsiburada-product-slider/static/js/2.08e03531.chunk.js.LICENSE.txt"
+    "static/css/main.af09c1ae.chunk.css.map": "/hepsiburada-product-slider/static/css/main.af09c1ae.chunk.css.map",
+    "static/js/2.e7dd1d5e.chunk.js.LICENSE.txt": "/hepsiburada-product-slider/static/js/2.e7dd1d5e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97afe17e.js",
-    "static/js/2.08e03531.chunk.js",
-    "static/css/main.b9dd4c16.chunk.css",
-    "static/js/main.bd502a53.chunk.js"
+    "static/js/runtime-main.ffeeea2a.js",
+    "static/js/2.e7dd1d5e.chunk.js",
+    "static/css/main.af09c1ae.chunk.css",
+    "static/js/main.6b8a5cb7.chunk.js"
   ]
 }
